@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=fPpYilRalHk //splash screen
+https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks //sounds
+https://stackoverflow.com/questions/20541707/add-resources-sound-files-to-exe-ms-visual-studio-2012 //add sounds to exe
+https://stackoverflow.com/questions/1592876/make-a-borderless-form-movable //move window
+https://stackoverflow.com/questions/9387267/transparent-control-over-picturebox
+https://www.youtube.com/watch?v=xaInDs_UlME //trackbars
+https://stackoverflow.com/questions/1348080/convert-a-positive-number-to-negative-in-c-sharp //positive to negative
+https://stackoverflow.com/questions/69352/is-there-a-way-to-programmatically-minimize-a-window //minimize
+https://stackoverflow.com/questions/51056850/c-sharp-if-that-checks-wether-a-textbox-input-is-greater-than-0-and-also-checks //
+
+https://stackoverflow.com/questions/168550/display-a-tooltip-over-a-button-using-windows-forms //show tooltip
+https://social.msdn.microsoft.com/Forums/en-US/f11cedec-a4db-4666-9bba-cabef2825d5a/removing-the-first-3-characters-of-text-boxs-text?forum=vblanguage //remove character
+https://stackoverflow.com/questions/3036829/how-do-i-create-a-message-box-with-yes-no-choices-and-a-dialogresult //message boxes with prompt
+https://kodify.net/csharp/if-else/nested-if-statement/ //nested statements
+https://stackoverflow.com/questions/15906090/change-color-of-label-in-c-sharp/15906135 //change label color if value negative
+https://social.msdn.microsoft.com/Forums/en-US/df64f1ab-66c7-459f-9232-7fdeccc9605e/plot-line-2d-chart-in-c-winform-application?forum=winforms //load values from text file
+https://stackoverflow.com/questions/2695444/clearing-content-of-text-file-using-c-sharp //Clear content from text file
+https://stackoverflow.com/questions/21822762/how-can-i-change-forecolor-of-a-chart-label //Chart colors
+https://stackoverflow.com/questions/38960/how-to-find-out-if-a-file-exists-in-c-sharp-net //if file exists
+https://www.c-sharpcorner.com/UploadFile/mahesh/create-a-text-file-in-C-Sharp/ //create new text file
+https://dotnetthoughts.net/how-to-apply-border-color-for-tablelayoutpanel/ //border color
+https://docs.microsoft.com/en-us/dotnet/api/system.decimal.toint32?view=net-5.0 //decimal to int32
+https://stackoverflow.com/questions/22023352/c-sharp-datatable-computing-the-average-in-a-column //table average
+https://stackoverflow.com/questions/1559770/send-values-from-one-form-to-another-form //send values to another form
+https://stackoverflow.com/questions/4345666/hiding-a-form-and-showing-another-when-a-button-is-clicked-in-a-windows-forms-ap //hiding another form if button clicked
+https://csharp.net-tutorials.com/linq/sorting-data-the-orderby-thenby-methods/ //sorting arrays
+
+UI SOUNDS
+https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks //open source UI sound effects
+
+IMAGES
+https://pixabay.com/illustrations/elephant-icon-elephant-icon-tusks-5569056/ //elephant disaster icon
+https://www.kindpng.com/imgv/hbbTTRJ_rat-icon-png-transparent-png/ //rats disaster icon
+https://www.gettyimages.fi/detail/illustration/coronavirus-icon-royalty-free-illustration/1221635056 //plague disaster icon
+https://dryicons.com/icon/price-tag-icon-5535 //price icon
+https://www.freeiconspng.com/img/13107 //population icon
+https://www.pinclipart.com/maxpin/TJibbx/ //land icon
+https://www.pngfind.com/mpng/Twmox_grain-icon-png-wheat-icon-black-transparent-png/ //grain icon
+https://www.photoshopsupply.com/patterns-textures/grunge-texture //grunge texture background
+https://toppng.com/golden-texture-background-PNG-free-PNG-Images_138978?search-result=plastic-wrap-texture //progress bar texture
+https://www.deviantart.com/hhh316/art/Seamless-Rock-Face-Texture-271675185 //splash screen rock texture background

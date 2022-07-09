@@ -1,0 +1,220 @@
+C:\Users\Mike\source\repos\Hammurabi\obj\Debug\Hammurabi.Form1.resources
+C:\Users\Mike\source\repos\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+C:\Users\Mike\source\repos\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Hammurabi\bin\Debug\Hammurabi.exe.config
+C:\Users\Mike\source\repos\Hammurabi\bin\Debug\Hammurabi.exe
+C:\Users\Mike\source\repos\Hammurabi\bin\Debug\Hammurabi.pdb
+C:\Users\Mike\source\repos\Hammurabi\obj\Debug\Hammurabi.exe
+C:\Users\Mike\source\repos\Hammurabi\obj\Debug\Hammurabi.pdb
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe.config
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.pdb
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csprojAssemblyReference.cache
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.Form1.resources
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.exe
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.pdb
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+G:\studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe.config
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.pdb
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csprojAssemblyReference.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.exe
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.pdb
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.maingame.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\TrackBar.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.highscores.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe.config
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.pdb
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\TrackBar.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csprojAssemblyReference.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.highscores.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.maingame.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.exe
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.pdb
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2021 USW HNC\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe.config
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.exe
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Hammurabi.pdb
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\TrackBar.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csprojAssemblyReference.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.highscores.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.maingame.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.exe
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.pdb
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mike\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe.config
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.pdb
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\TrackBar.dll
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Interop.WMPLib.dll
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csprojAssemblyReference.cache
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Interop.WMPLib.dll
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.highscores.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.maingame.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.exe
+\\Mac\Dropbox\My PC (DESKTOP-7ROJOOL)\Documents\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.pdb
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe.config
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.pdb
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\TrackBar.dll
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Interop.WMPLib.dll
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.AssemblyReference.cache
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Interop.WMPLib.dll
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.highscores.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.maingame.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.exe
+Z:\Dropbox\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.pdb
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe.config
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.pdb
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\TrackBar.dll
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Interop.WMPLib.dll
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.AssemblyReference.cache
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Interop.WMPLib.dll
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.highscores.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.maingame.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.exe
+Y:\Work\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.pdb
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe.config
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.exe
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Hammurabi.pdb
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\TrackBar.dll
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.highscores.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.maingame.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.exe
+\\Mac\Home\Documents\Studies\Studies\2020-2022 USW HND\Year 1\Programming 1\assigments\Assigment 2\_Hammurabi\obj\Debug\Hammurabi.pdb
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Hammurabi.exe.config
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Hammurabi.exe
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Hammurabi.pdb
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\TrackBar.dll
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.AssemblyReference.cache
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.highscores.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.maingame.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.exe
+C:\Users\Mike\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.pdb
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.exe
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.pdb
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Hammurabi.exe.config
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Hammurabi.exe
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Hammurabi.pdb
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\TrackBar.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.highscores.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.maingame.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.mainmenu.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.nameinput.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.scoreboard.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.spashscreen.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.whatisham.resources
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\Microsoft Visual Studio\Windows\Hammurabi\obj\Debug\Hammurabi.csproj.CopyComplete
