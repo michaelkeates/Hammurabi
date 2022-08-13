@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://www.michaelkeates.co.uk/_next/image?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F512177047%2F0d150de4-ee11-4ebb-ae09-4f08cbe116b8&w=640&q=75" width="300px" height="300px"/>
 </p>
-
+<br></br>
 <h1 align="center">Hammurabi</h1>
 
 Hammurabi is a frontend WinForm application built using C# and based on the original text-based Hamurabi that was first developed under the name of King Sumeria or The Sumer Game by Doug Dyment in 1968. Hammurabi is a WinForm game with a graphical user interface of land and resource management. This was developed for an assigment for the University of South Wales.
-
+<br></br>
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"340px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"140px"/>
 </p>
 
 <h2 align="center">Description</h1>
