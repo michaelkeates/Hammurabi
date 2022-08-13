@@ -9,7 +9,7 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
 <p align="center">
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"140px"/>
 </p>
-
+<br></br>
 <h2 align="center">Description</h1>
 
 An in-depth paragraph about your project and overview of use.
