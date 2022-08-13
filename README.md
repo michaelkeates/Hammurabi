@@ -11,12 +11,8 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
 An in-depth paragraph about your project and overview of use.
 
 <h3 align="center">Game Rules</h3>
-* The game lasts 10 years, with a year being one turn
-* Each year, enter how many bushels of grain to allocate to buying (or selling) acres of land, feeding your population, and planting crops for the next year.
-* Each acre of land requires one bushel of grain to plant seeds.
-* The price of each acre of land fluctuates from 17 bushels per acre to 26 bushels.
-* If the conditions in your country ever become bad enough, the people will overthrow you and you won't finish your 10 year term.
-* If you make it to the 11th year, your rule will be evaluated and you'll be ranked against great figures in history.
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
 ## Getting Started
 
