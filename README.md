@@ -11,8 +11,11 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
 An in-depth paragraph about your project and overview of use.
 
 <h3 align="center">Game Rules</h3>
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+<ul>
+<li>Example 1</li>
+<li>Example 2</li>
+<li>Example 3</li>
+</ul>
 
 ## Getting Started
 
