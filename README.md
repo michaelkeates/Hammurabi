@@ -20,6 +20,13 @@ An in-depth paragraph about your project and overview of use.
 <li>If you make it to the 11th year, your rule will be evaluated and you'll be ranked against great figures in history.</li>
 </ul>
 
+<h3 align="left">Basic Strategy</h3>
+<ul>
+<li>Start with trying to feed all, or most, of your population 20 bushels of grain per person.</li>
+<li>Try to plant seeds on all of your land, assuming you have enough people and enough grain.</li>
+<li>Last, if you have grain remaining, you might spend some buying additional acres of land, especially if the price is right. If you didn't have enough grain for food and seed, you may need to sell some of your land, hopefully, at a good price.</li>
+</ul>
+
 ## Getting Started
 
 ### Dependencies
