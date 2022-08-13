@@ -1,4 +1,4 @@
-<img src="https://www.michaelkeates.co.uk/_next/image?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F512177047%2F0d150de4-ee11-4ebb-ae09-4f08cbe116b8&w=640&q=75" class="center" width="300px" heigh="300"></img>
+<img src="https://www.michaelkeates.co.uk/_next/image?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F512177047%2F0d150de4-ee11-4ebb-ae09-4f08cbe116b8&w=640&q=75" class="marginauto" width="300px" heigh="300"></img>
 
 # Project Title
 
