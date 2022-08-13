@@ -34,8 +34,7 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Windows 10 (Likely can run prior but not tested)
 
 ### Installing
 
@@ -44,8 +43,8 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Right click on Hammurabi.exe and “Run As Administrator” or it will give an error that .dat files cannot be accessed. This is due to Admin privileges
+
 ```
 code blocks for commands
 ```
