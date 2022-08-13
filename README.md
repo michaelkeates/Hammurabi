@@ -9,7 +9,6 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"140px"/>
 </p>
 <br></br>
-<br></br>
 <h2 align="center">Description</h1>
 
 I was tasked with recreating the Hamurabi game with UI components for one of my assigments set by the university. The Graphical User Interface was created from scratch using Adobe Photoshop. I was also tasked with displaying a sorted view of the 10 years in a chart as well as publishing the finished product within a Windows Installer.
