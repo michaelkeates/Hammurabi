@@ -30,7 +30,6 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <li>Last, if you have grain remaining, you might spend some buying additional acres of land, especially if the price is right. If you didn't have enough grain for food and seed, you may need to sell some of your land, hopefully, at a good price.</li>
 </ul>
 
-<br></br>
 <h2 align="left">Getting Started</h1>
 
 <h3 align="left">Dependencies</h3>
@@ -50,5 +49,5 @@ Michael Keates <a href="https://www.michaelkeates.co.uk">Website</a>
 
 <h3 align="left">Version History</h3>
 <ul>
-<li>0.5.1 (Final as of submission to University</li>
+<li>0.5.1 (Final as of submission to University)</li>
 </ul>
