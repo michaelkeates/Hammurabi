@@ -49,6 +49,21 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <li>Last, if you have grain remaining, you might spend some buying additional acres of land, especially if the price is right. If you didn't have enough grain for food and seed, you may need to sell some of your land, hopefully, at a good price.</li>
 </ul>
 <br></br>
+<h2 align="left">:camera: Images</h1>
+<br></br>
+<p align="center">
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_mainmenu.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_maingame.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame6.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame7.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame11.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame5.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame8.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame8.jpg" width"140px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame10.jpg" width"140px"/>
+</p>
+<br></br>
 <h2 align="left">Getting Started</h1>
 
 <h3 align="left">Dependencies</h3>
@@ -56,7 +71,7 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <li>Windows 10 (Likely can run prior versions but not tested)</li>
 </ul>
 
-<h3 align="left">Executing Program</h3>
+<h3 align="left">:exclamation: Executing Program</h3>
 <ul>
 <li>Right click on Hammurabi.exe and “Run As Administrator” or it will give an error that .dat files cannot be accessed. This is due to Admin privileges</li>
 </ul>
