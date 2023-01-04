@@ -52,7 +52,7 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <h2 align="left">:camera: Images</h1>
 <br></br>
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width"40px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width="300px" height="300px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_mainmenu.jpg" width"140px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_maingame.jpg" width"140px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame6.jpg" width"140px"/>
