@@ -2,6 +2,25 @@
   <img src="https://www.michaelkeates.co.uk/_next/image?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F512177047%2F0d150de4-ee11-4ebb-ae09-4f08cbe116b8&w=640&q=75" width="300px" height="300px"/>
 </p>
 <h1 align="center">Hammurabi</h1>
+<p align="center">
+
+<a href="http://unlicense.org/">
+<img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
+</a>
+
+<a href="https://github.com/michaelkeates/Hammurabi/issues">
+<img src="https://img.shields.io/github/issues/michaelkeates/Hammurabi.svg" alt="Issues">
+</a>
+
+<a href="https://github.com/michaelkeates/Hammurabi/fork">
+<img src="https://img.shields.io/github/forks/michaelkeates/Hammurabi.svg" alt="Forks">
+</a>
+
+<a href="https://github.com/michaelkeates/Hammurabi">
+<img src="https://img.shields.io/github/stars/michaelkeates/Hammurabi.svg" alt="Stars">
+</a>
+
+</p>
 Hammurabi is a frontend WinForm application built using C# and based on the original text-based Hamurabi that was first developed under the name of King Sumeria or The Sumer Game by Doug Dyment in 1968. Hammurabi is a WinForm game with a graphical user interface of land and resource management. This was developed for an assigment for the University of South Wales.
 <br></br>
 <br></br>
@@ -9,7 +28,7 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"140px"/>
 </p>
 <br></br>
-<h2 align="left">Description</h1>
+<h2 align="left">:clipboard: Description</h1>
 
 I was tasked with recreating the Hamurabi game with UI components for one of my assigments set by the university. The Graphical User Interface was created from scratch using Adobe Photoshop. I was also tasked with displaying a sorted view of the 10 years in a chart as well as publishing the finished product within a Windows Installer.
 
