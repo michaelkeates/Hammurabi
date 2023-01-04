@@ -28,7 +28,7 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"140px"/>
 </p>
 <br></br>
-<h2 align="left">:clipboard: Description</h1>
+<h2 align="left">Description</h1>
 
 I was tasked with recreating the Hamurabi game with UI components for one of my assigments set by the university. The Graphical User Interface was created from scratch using Adobe Photoshop. I was also tasked with displaying a sorted view of the 10 years in a chart as well as publishing the finished product within a Windows Installer.
 
@@ -49,7 +49,7 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <li>Last, if you have grain remaining, you might spend some buying additional acres of land, especially if the price is right. If you didn't have enough grain for food and seed, you may need to sell some of your land, hopefully, at a good price.</li>
 </ul>
 <br></br>
-<h2 align="left">:camera: Images</h1>
+<h2 align="left">Images</h1>
 <br></br>
 <p align="center">
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width="100px" height="67px"/>
@@ -71,7 +71,7 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <li>Windows 10 (Likely can run prior versions but not tested)</li>
 </ul>
 
-<h3 align="left">:exclamation: Executing Program</h3>
+<h3 align="left">Executing Program</h3>
 <ul>
 <li>Right click on Hammurabi.exe and “Run As Administrator” or it will give an error that .dat files cannot be accessed. This is due to Admin privileges</li>
 </ul>
