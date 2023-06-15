@@ -51,8 +51,7 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 
 <h2 align="left">Images</h1>
 
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_mainmenu.jpg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width="25%"/> <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_mainmenu.jpg" width="25%"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_maingame.jpg" width="100%"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame6.jpg" width="100%"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame7.jpg" width="100%"/>
