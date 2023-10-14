@@ -49,15 +49,33 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 <li>Last, if you have grain remaining, you might spend some buying additional acres of land, especially if the price is right. If you didn't have enough grain for food and seed, you may need to sell some of your land, hopefully, at a good price.</li>
 </ul>
 
-<h2 align="left">Images</h1>
+<h2 align="left">Images</h2>
 
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width="45%" hspace="10"/> <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_mainmenu.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_maingame.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame6.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame7.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame11.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame5.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame8.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame8.jpg" width="45%" hspace="10"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame10.jpg" width="45%" hspace="10"/>
+<h2 align="left">Video</h2>
+
+
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="Video description Hammurabi.mp4" class="m-1">Hammurabi.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <video src="https://user-images.githubusercontent.com/103878560/275204626-2e50eb5a-692d-4961-adde-2e30ea7efcf2.mp4" data-canonical-src="https://user-images.githubusercontent.com/103878560/275204626-2e50eb5a-692d-4961-adde-2e30ea7efcf2.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+
+  </video>
+</details>
+
+
 <br></br>
-<h2 align="left">Getting Started</h1>
+<h2 align="left">Getting Started</h2>
 
 <h3 align="left">Dependencies</h3>
 <ul>
