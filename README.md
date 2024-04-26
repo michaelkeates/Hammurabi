@@ -9,7 +9,8 @@ Hammurabi is a frontend WinForm application built using C# and based on the orig
 <br></br>
 <br></br>
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/hamgame2.jpg" width"140px"/>
+  <img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/129efd0c-f1a4-42b5-85b1-4827158bfeb5" width"140px"/>
+
 </p>
 <br></br>
 <h2 align="left">Description</h1>
@@ -35,11 +36,14 @@ I was tasked with recreating the Hamurabi game with UI components for one of my 
 
 <h2 align="left">Images</h2>
 
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_spash.jpg" width="45%" hspace="10"/> <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_mainmenu.jpg" width="45%" hspace="10"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/ham_maingame.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame6.jpg" width="45%" hspace="10"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame7.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame11.jpg" width="45%" hspace="10"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame5.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame8.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame8.jpg" width="45%" hspace="10"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/hamgame10.jpg" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/3e4ef016-0b4c-43c4-8f95-6b4a61da407c" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/4445bfc0-c905-4c16-975b-ae9c9c9d37ad" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/4127af57-1150-4984-b7c3-d7ab7c9bad80" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/b06ae931-3d7a-4314-8277-2813a4557f05" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/d6f5aa08-ce38-489a-a224-7a555f233620" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/1c5a7287-ed96-4d73-9ef7-2cf14571f051" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/a318f3a3-f55b-42c3-8f28-2b9c181871ad" width="45%" hspace="10"/>
+<img src="https://github.com/michaelkeates/Hammurabi/assets/103878560/f34cbf30-3d3c-47a2-b060-9ceadf5da3ef" width="45%" hspace="10"/>
 <h2 align="left">Video</h2>
 
 
